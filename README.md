@@ -1,2 +1,2 @@
 # hello-world
-To verify git command
+To verify git command in repos
